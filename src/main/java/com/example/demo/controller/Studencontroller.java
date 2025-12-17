@@ -12,6 +12,7 @@ import com.example.demo.service.StudentService;
 @RequestMapping("/student")
 public class StudentController {
 
+
     @Autowired
     private StudentService service;
 
